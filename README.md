@@ -1,6 +1,6 @@
 # The Golang Implementation of Apache RocketMQ Client
 
-Project gitee.com/mingying_1/rocketmq-clients/golang is targeted to implement with golang. At the current moment, it is still a work-in-progress project. Do not use it in production till it grows mature enough.
+Project github.com/tristin2024/rocketmq-clients/golang is targeted to implement with golang. At the current moment, it is still a work-in-progress project. Do not use it in production till it grows mature enough.
 
 ## Architecture
 
@@ -13,11 +13,11 @@ We build the following protocols described in [rocketmq-apis](https://github.com
 With [Go modules](https://go.dev/doc/go1.11#modules)(Go 1.11+), simply add the following import to your code, and then `go [build|run|test]` will automatically fetch the necessary dependencies.
 
 ```go
-import "gitee.com/mingying_1/rocketmq-clients/golang"
+import "github.com/tristin2024/rocketmq-clients/golang"
 ```
 
 Otherwise, to install the `golang` package, run the following command:
 
 ```sh
-go get -u gitee.com/mingying_1/rocketmq-clients/golang
+go get -u github.com/tristin2024/rocketmq-clients/golang
 ```

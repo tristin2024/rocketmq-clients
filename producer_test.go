@@ -24,10 +24,10 @@ import (
 	"testing"
 	"time"
 
-	"gitee.com/mingying_1/rocketmq-clients/golang/credentials"
-	v2 "gitee.com/mingying_1/rocketmq-clients/golang/protocol/v2"
 	gomock "github.com/golang/mock/gomock"
 	"github.com/prashantv/gostub"
+	"github.com/tristin2024/rocketmq-clients/golang/credentials"
+	v2 "github.com/tristin2024/rocketmq-clients/golang/protocol/v2"
 	"google.golang.org/grpc/metadata"
 )
 

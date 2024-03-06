@@ -21,8 +21,8 @@ import (
 	context "context"
 	reflect "reflect"
 
-	v2 "gitee.com/mingying_1/rocketmq-clients/golang/protocol/v2"
 	gomock "github.com/golang/mock/gomock"
+	v2 "github.com/tristin2024/rocketmq-clients/golang/protocol/v2"
 )
 
 // MockClient is a mock of Client interface.

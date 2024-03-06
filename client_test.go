@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"testing"
 
-	"gitee.com/mingying_1/rocketmq-clients/golang/credentials"
+	"github.com/tristin2024/rocketmq-clients/golang/credentials"
 )
 
 func TestCLINewClient(t *testing.T) {

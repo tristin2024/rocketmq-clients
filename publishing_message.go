@@ -20,8 +20,8 @@ package golang
 import (
 	"fmt"
 
-	innerOS "gitee.com/mingying_1/rocketmq-clients/golang/pkg/os"
-	v2 "gitee.com/mingying_1/rocketmq-clients/golang/protocol/v2"
+	innerOS "github.com/tristin2024/rocketmq-clients/golang/pkg/os"
+	v2 "github.com/tristin2024/rocketmq-clients/golang/protocol/v2"
 	"google.golang.org/protobuf/types/known/timestamppb"
 )
 

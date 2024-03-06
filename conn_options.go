@@ -24,7 +24,7 @@ import (
 	"math"
 	"time"
 
-	"gitee.com/mingying_1/rocketmq-clients/golang/pkg/zaplog"
+	"github.com/tristin2024/rocketmq-clients/golang/pkg/zaplog"
 	"go.uber.org/zap"
 	"google.golang.org/grpc"
 )

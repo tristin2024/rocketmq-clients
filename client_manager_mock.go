@@ -22,8 +22,8 @@ import (
 	reflect "reflect"
 	time "time"
 
-	v2 "gitee.com/mingying_1/rocketmq-clients/golang/protocol/v2"
 	gomock "github.com/golang/mock/gomock"
+	v2 "github.com/tristin2024/rocketmq-clients/golang/protocol/v2"
 )
 
 // MockClientManager is a mock of ClientManager interface.

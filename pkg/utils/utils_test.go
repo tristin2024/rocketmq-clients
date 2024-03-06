@@ -21,7 +21,7 @@ import (
 	"compress/gzip"
 	"testing"
 
-	v2 "gitee.com/mingying_1/rocketmq-clients/golang/protocol/v2"
+	v2 "github.com/tristin2024/rocketmq-clients/golang/protocol/v2"
 )
 
 func TestMod(t *testing.T) {

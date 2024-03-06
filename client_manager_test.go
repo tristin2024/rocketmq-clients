@@ -24,9 +24,9 @@ import (
 	"testing"
 	"time"
 
-	v2 "gitee.com/mingying_1/rocketmq-clients/golang/protocol/v2"
 	gomock "github.com/golang/mock/gomock"
 	"github.com/prashantv/gostub"
+	v2 "github.com/tristin2024/rocketmq-clients/golang/protocol/v2"
 )
 
 var MOCK_CLIENT_ID = "mock_client_id"

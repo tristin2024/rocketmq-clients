@@ -20,7 +20,7 @@ package golang
 import (
 	"time"
 
-	v2 "gitee.com/mingying_1/rocketmq-clients/golang/protocol/v2"
+	v2 "github.com/tristin2024/rocketmq-clients/golang/protocol/v2"
 )
 
 type Consumer interface {

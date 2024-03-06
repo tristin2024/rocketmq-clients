@@ -22,9 +22,9 @@ import (
 	"sync"
 	"time"
 
-	"gitee.com/mingying_1/rocketmq-clients/golang/pkg/ticker"
-	"gitee.com/mingying_1/rocketmq-clients/golang/pkg/utils"
-	v2 "gitee.com/mingying_1/rocketmq-clients/golang/protocol/v2"
+	"github.com/tristin2024/rocketmq-clients/golang/pkg/ticker"
+	"github.com/tristin2024/rocketmq-clients/golang/pkg/utils"
+	v2 "github.com/tristin2024/rocketmq-clients/golang/protocol/v2"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 )
